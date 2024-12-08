@@ -1,0 +1,7 @@
+config.py
+venv
+.idea
+*.iml
+__pycache__
+.run
+lib/analysis
